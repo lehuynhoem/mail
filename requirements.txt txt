@@ -1,0 +1,6 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+jinja2==3.1.4
+aiohttp==3.10.5          # thay requests để async
+beautifulsoup4==4.12.3
+python-multipart         # nếu sau này cần form
